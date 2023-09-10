@@ -24,7 +24,7 @@
               Welcome to
             </h4>
             <h1 class="capitalize leading-tight mb-2 text-white">
-              Vue Designer
+              Robs Vue Designer
             </h1>
             <h5 class="mb-6 text-gray-300">
               A desktop drag-and-drop editor for Mac, Windows and Linux that
